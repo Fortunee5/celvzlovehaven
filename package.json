@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "cors": "^2.8.5",
     "express": "^5.1.0",
+    "firebase": "^12.5.0",
     "lucide-react": "^0.545.0",
     "multer": "^2.0.2",
     "path-to-regexp": "^6.2.1",
